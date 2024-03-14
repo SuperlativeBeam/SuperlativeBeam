@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SuperlativeBeam
+- 🌱 I’m currently learning PHP, Javascript and SQL. Although bits and bobs from everything can't hurt. My learning process seems to take me into obscure territory. Oh, and also bits of Powershell for automatic managment.
+- 😄 Pronouns: He/him
